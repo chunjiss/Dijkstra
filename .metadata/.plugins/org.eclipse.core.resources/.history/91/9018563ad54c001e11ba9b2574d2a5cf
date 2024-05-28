@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module DuongDiNganNhat {
+	requires java.desktop;
+}
