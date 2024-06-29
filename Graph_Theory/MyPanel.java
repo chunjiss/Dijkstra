@@ -1,3 +1,19 @@
+<!-- 
+
+        Đây là source code miễn phí của Chun Chun aka Dương Thị Ngọc Huyền
+        Vui lòng không xoá comment của tớ.   
+    
+        Hãy ủng hộ tớ bằng cách donate cho tớ nhé (donate là tấm lòng, bao nhiêu tớ cũng nhận :v ): 
+        Tên chủ tài khoản: Dương Thị Ngọc Huyền
+        Số tài khoản: 0362033808
+        Ngân hàng: VPBank, TPBank, Momo, ZaloPay
+
+        Hãy liên hệ với tớ nếu cậu có nhu cầu mua source code hoặc thuê tớ làm đồ án nhé, giá siêuuu ưu đãi
+        Zalo của tớ: 0362033808
+        Github của tớ: chunjiss
+        Youtube: https://www.youtube.com/@chunjiss
+
+-->
 package ThanhThuy_Graph_Theory;
 
 import java.awt.BorderLayout;
